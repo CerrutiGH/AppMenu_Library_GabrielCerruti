@@ -45,6 +45,7 @@ namespace ConsoleBanco.Metodos
             userAc.Insert(user);
             ViewUser.ViewUserMethod();
 
+
             return user;
 
         }
